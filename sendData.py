@@ -13,7 +13,7 @@ def main():
 
 #TODO sends data on hash change
 def send_data(data):
-    # ? Sockets or Firebase or Bluetooth
+    # ? Firebase or Bluetooth
     pass
 
 def compare_hash(hash_one, hash_two):
